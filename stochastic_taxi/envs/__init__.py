@@ -1,0 +1,2 @@
+from gym_foo.envs.stochastic_taxi_env import StochasticTaxiEnv
+from gym_foo.envs.stochastic_taxi_extrahard_env import StochasticTaxiExtraHardEnv
