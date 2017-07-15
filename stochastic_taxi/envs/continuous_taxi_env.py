@@ -18,7 +18,7 @@ MAP = [
 
 
 
-class StochasticTaxiEnv(discrete.DiscreteEnv):
+class ContinuousTaxiEnv(discrete.DiscreteEnv):
     """
     Time = 12 hours = 48 quarters
     Go from one grid to another takes 1 quarter
